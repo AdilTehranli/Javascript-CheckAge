@@ -25,7 +25,7 @@
 //     }
 //#endregion
 
-//#region dovr operatorlari
+//#region dovr operatorlari(loop)
     // for(let i=0;i<5;i++){
     //     console.log(i);
     // }
@@ -47,4 +47,10 @@
     //     console.log(x);
     //     x--;    
     // }
+
+    // let a =0;
+    // do{
+    // a++;
+    // console.log(a);
+    // }while(a>9)
 //#endregion
